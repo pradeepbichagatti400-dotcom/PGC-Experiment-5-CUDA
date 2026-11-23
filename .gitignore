@@ -1,0 +1,17 @@
+
+# CUDA generated files
+*.exe
+*.obj
+*.o
+*.ptx
+*.cubin
+*.fatbin
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+
+# Temporary files
+*.tmp
+*.log
